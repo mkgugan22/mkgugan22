@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React , Postman , Figma , Frammer**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN , FIGMA**
 
 - 📫 How to reach me **mkgugan22@gmail.com**
 
