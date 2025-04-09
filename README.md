@@ -27,6 +27,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYenXFZbsCKXPtKuPdKNL-Ex3AjTtddsM71Q&s" alt="frammer" width="40" height="40"/>
 </a>
 
+<a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</a>
+
    <a href="https://www.figma.com/@guganmk" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster-thumbnail.png" alt="Figma" width="40" height="40"/>
 </a>
